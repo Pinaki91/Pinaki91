@@ -1,5 +1,5 @@
 - 👋 Hi, I am Pinaki Swain
-- 👀 I’m interested in computational biologist and soft matter problems
+- 👀 I’m interested in computational biophysics and soft matter problems
 - 🌱 I’m currently simulating liquid liquid phase separation of protein and RNA mixture on espressomd platform
 - contact: pinaki.swain@mcgill.ca
 
